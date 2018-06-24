@@ -4,8 +4,8 @@ import com.sunjie.factory.factory.RobotFactory;
 
 /**
  * Description: 工厂方法模式
- *            与简单工厂对比 优点:增加一个persion不用修改factory代码
- *            缺点：需要成对增加工厂类
+ *            优点：客户端不需要知道具体产品类的类名，只需要知道对应的工厂类。
+ *            缺点：增加一个新产品，需要增加一个新产品类和一个具体工厂类，类种类成对增加
  *
  * User: sunjie
  * Date: 2018/6/24
