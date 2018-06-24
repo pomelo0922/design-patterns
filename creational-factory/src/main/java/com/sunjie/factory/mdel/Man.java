@@ -1,6 +1,6 @@
-package com.sunjie.simplefactory.Model;
+package com.sunjie.factory.mdel;
 
-import com.sunjie.simplefactory.Persion;
+import com.sunjie.factory.Persion;
 
 /**
  * Description: 男人

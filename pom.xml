@@ -14,6 +14,7 @@
         <module>creational-simple-factory</module>
         <!--抽象工厂方法-->
         <module>creational-abstract-factory</module>
+        <module>creational-factory</module>
 
         <!--结构型-->
 

@@ -1,4 +1,4 @@
-package com.sunjie.simplefactory.Model;
+package com.sunjie.simplefactory.model;
 
 import com.sunjie.simplefactory.Persion;
 

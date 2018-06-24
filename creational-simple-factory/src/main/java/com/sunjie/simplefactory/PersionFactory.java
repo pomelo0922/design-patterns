@@ -1,11 +1,8 @@
 package com.sunjie.simplefactory;
 
-import com.sun.prism.es2.ES2Graphics;
-import com.sunjie.simplefactory.Model.Man;
-import com.sunjie.simplefactory.Model.Robot;
-import com.sunjie.simplefactory.Model.Woman;
-
-import java.lang.reflect.Type;
+import com.sunjie.simplefactory.model.Man;
+import com.sunjie.simplefactory.model.Robot;
+import com.sunjie.simplefactory.model.Woman;
 
 /**
  * Description:
