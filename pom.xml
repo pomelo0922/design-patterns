@@ -9,6 +9,9 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
+
+
+
         <!--创建型-->
         <!--简单工厂方法-->
         <module>creational-simple-factory</module>
@@ -25,6 +28,12 @@
 
 
         <!--结构型-->
+        <!--适配器模式-->
+        <module>structural-adapter</module>
+
+
+
+
 
 
         <!--行为型-->
