@@ -20,6 +20,8 @@
         <module>creational-builder</module>
         <!--原型模式-->
         <module>creational-clone</module>
+        <!--单例模式-->
+        <module>creational-single</module>
 
 
         <!--结构型-->
