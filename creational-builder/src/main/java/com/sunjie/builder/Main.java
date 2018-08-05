@@ -9,7 +9,6 @@ public class Main {
         Director director = new Director(phoneBuilder);
         director.construct("摄像头","屏幕","cpu");
 
-
         System.out.println(phoneBuilder.create());
 
     }

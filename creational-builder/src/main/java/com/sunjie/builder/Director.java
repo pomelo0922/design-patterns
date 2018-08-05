@@ -12,6 +12,7 @@ public class Director {
         builder.buildCamera(camera);
         builder.builderScreen(screen);
         builder.buildCpu(cpu);
+        builder.buildSystem();
     }
 
 }

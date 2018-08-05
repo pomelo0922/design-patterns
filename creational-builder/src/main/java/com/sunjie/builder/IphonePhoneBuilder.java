@@ -10,12 +10,12 @@ public class IphonePhoneBuilder extends PhoneBuilder {
     }
 
     public void buildCamera(String camrea) {
-        phone.setScreen(camrea);
+        phone. setCamera(camrea);
 
     }
 
     public void buildCpu(String cpu) {
-        phone.setScreen(cpu);
+        phone.setCpu(cpu);
 
     }
 
