@@ -32,6 +32,8 @@
         <module>structural-adapter</module>
         <!--桥接模式-->
         <module>structural-bridge</module>
+        <!--组合模式-->
+        <module>structural-composite</module>
 
 
         <!--行为型-->
