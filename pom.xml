@@ -34,6 +34,8 @@
         <module>structural-bridge</module>
         <!--组合模式-->
         <module>structural-composite</module>
+        <!--装饰模式-->
+        <module>structural-decorator</module>
 
 
         <!--行为型-->
