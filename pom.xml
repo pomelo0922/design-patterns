@@ -36,6 +36,8 @@
         <module>structural-composite</module>
         <!--装饰模式-->
         <module>structural-decorator</module>
+        <!--外观模式-->
+        <module>structural-facade</module>
 
 
         <!--行为型-->
