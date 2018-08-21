@@ -38,6 +38,8 @@
         <module>structural-decorator</module>
         <!--外观模式-->
         <module>structural-facade</module>
+        <!--享元模式-->
+        <module>structural-flyweight</module>
 
 
         <!--行为型-->
