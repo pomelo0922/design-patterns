@@ -40,6 +40,8 @@
         <module>structural-facade</module>
         <!--享元模式-->
         <module>structural-flyweight</module>
+        <!--代理模式-->
+        <module>structural-proxy</module>
 
 
         <!--行为型-->
