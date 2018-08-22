@@ -45,6 +45,8 @@
 
 
         <!--行为型-->
+        <!--责任链模式-->
+        <module>behavioural-chain</module>
     </modules>
 
 
