@@ -47,6 +47,8 @@
         <!--行为型-->
         <!--责任链模式-->
         <module>behavioural-chain</module>
+        <!--命令模式-->
+        <module>behavioural-command</module>
     </modules>
 
 
