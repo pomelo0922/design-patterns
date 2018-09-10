@@ -49,6 +49,8 @@
         <module>behavioural-chain</module>
         <!--命令模式-->
         <module>behavioural-command</module>
+        <!--迭代器模式-->
+        <module>behavioural-iterator</module>
     </modules>
 
 
